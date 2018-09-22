@@ -1,0 +1,12 @@
+#coding:utf-8We introduced Recursive Neural Tensor Networks
+and the Stanford Sentiment Treebank. The combination
+of new model and data results in a system
+for single sentence sentiment detection that pushes
+state of the art by 5.4% for positive/negative sentence
+classification. Apart from this standard setting,
+the dataset also poses important new challenges
+and allows for new evaluation metrics. For instance,
+the RNTN obtains 80.7% accuracy on fine-grained
+sentiment prediction across all phrases and captures
+negation of different sentiments and scope more accurately
+than previous models.
